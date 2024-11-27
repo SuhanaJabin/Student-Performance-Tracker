@@ -13,4 +13,5 @@ A simple web-based application for managing and tracking student marks. This pro
 ## Tech Stack
 
 - **Frontend**: HTML, CSS
-- **Backend**: 
+- **Backend**: PHP
+- **Database**: MySQL
